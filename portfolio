@@ -15,7 +15,7 @@
     <nav>
         <div class="container nav-container">
             <a href="" class="logo">
-                <h2>Karthikeya<span> gundarapu</span></h2>
+                <h2>Anurag<span> Donthula</span></h2>
             </a>
             <ul>
                 <li><a href="#About">About </a></li>
@@ -32,7 +32,7 @@
                 <h1>
                     Hello,
 
-                    <p class="name"> I am <span>karthikeyan</span></p>
+                    <p class="name"> I am <span>anurag</span></p>
                 </h1>
                 <p>Proficient in HTML,CSS, Javascript and React.js with
                     experience in windows and linux<br> environmenst
@@ -64,13 +64,13 @@
             <article class="about-article">
                 <img src="man.png" alt="">
                 <h5>FULL NAME</h5>
-                <p>Karthikeyan</p>
+                <p>Anurag</p>
 
             </article>
             <article class="about-article">
                 <img src="email.png" alt="">
                 <h5>EMAIL</h5>
-                <p>gundarapukarthikeyan@gmail.com</p>
+                <p>dpnthulaanurag@gmail.com</p>
 
             </article>
             <article class="about-article">
@@ -82,7 +82,7 @@
             <article class="about-article">
                 <img src="telephone-call.png" alt="">
                 <h5>PHONE </h5>
-                <p>+917794834005</p>
+                <p>+919052747270</p>
 
             </article>
         </div>
@@ -213,7 +213,7 @@
         </div>
     </section>
     <footer>
-        &copy; karthikeyan 
+        &copy; Anurag 
 
     </footer>
     <script src="script.js"></script>
